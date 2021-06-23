@@ -8,4 +8,6 @@
 
 :link: Linkedin: https://www.linkedin.com/in/gabriel-vasconcelos-marques-312a521b9/
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GabrielVasconcelosMarques)
+
 
