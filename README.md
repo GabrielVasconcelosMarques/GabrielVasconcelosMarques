@@ -1,3 +1,6 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVasconcelosMarques=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Hello World, meu nome é Gabriel Vasconcelos 👋
 
 :school: Estudante do 4° período do IFPE - Bacharelado em Engenharia de Software
@@ -8,6 +11,6 @@
 
 :link: Linkedin: https://www.linkedin.com/in/gabriel-vasconcelos-marques-312a521b9/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
