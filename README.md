@@ -4,4 +4,8 @@
 
 :pushpin: Principais interesses: Python, Java, JavaScript, HTML, CSS, SQL, Data Science
 
+:e-mail: Contato: contatogabrielvmarques@gmail.com
+
+:link: Linkedin: https://www.linkedin.com/in/gabriel-vasconcelos-marques-312a521b9/
+
 
