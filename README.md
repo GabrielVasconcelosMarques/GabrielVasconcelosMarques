@@ -6,9 +6,9 @@
 
 ### Hello World, meu nome é Gabriel Vasconcelos 👋
 
-:school: Estudante do 4° período do IFPE - Bacharelado em Engenharia de Software
+:school: Estudante do 7° período do IFPE - Bacharelado em Engenharia de Software
 
-:pushpin: Principais interesses: Python, Java, JavaScript, HTML, CSS, SQL, Data Science
+:pushpin: Principais interesses: Python, Django, Flask, JavaScript, HTML, CSS, SQL, Data Science
 
 :e-mail: Contato: contatogabrielvmarques@gmail.com
 
